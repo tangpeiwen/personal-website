@@ -1,6 +1,5 @@
 ### 友情链接
-- [程序员DD](https://blog.didispace.com/)
-- [芋道源码](https://www.iocoder.cn/)
+- [Anoyi 🐬](https://anoyi.com/)
 
 ### 申请友链
 
